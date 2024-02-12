@@ -5,3 +5,4 @@ ipywidgets
 llama-index
 pypdf
 pyvis
+ipykernel
