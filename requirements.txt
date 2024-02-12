@@ -1,0 +1,7 @@
+openai
+gradio
+certifi
+ipywidgets
+llama-index
+pypdf
+pyvis
